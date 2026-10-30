@@ -1,0 +1,12 @@
+bin/
+dist/
+tools/
+logs/
+*.log
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+Thumbs.db
+desktop.ini
